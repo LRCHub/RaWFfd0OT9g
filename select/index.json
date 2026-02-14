@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "杪夏 / Laica (Music Video)",
+  "base_artist": "Laica",
+  "createdAt": "2026-02-14T12:47:04.806523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "杪夏",
+      "artist": "クレナズム",
+      "has_synced": true,
+      "path": "select/01_杪夏_クレナズム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "杪夏",
+      "artist": "Laica",
+      "has_synced": false,
+      "path": "select/pl_01_杪夏_Laica.txt"
+    }
+  ]
+}
